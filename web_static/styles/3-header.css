@@ -1,9 +1,6 @@
-header {
-    background: white url("../images/logo.png");
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-position: 20px;
+header{
+    background: white url("/home/hwezi/ALX/AirBnB_clone/web_static/static/images/logo.png") no-repeat;
     height: 70px;
     width: 100%;
-    border-bottom: 1px solid #CCCCCC;
+    border-bottom: 1px #CCCCCC;
 }

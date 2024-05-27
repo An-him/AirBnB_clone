@@ -1,10 +1,11 @@
-footer {
+footer{
     background-color: #00FF00;
     height: 60px;
     width: 100%;
-    margin-top: auto;
-    display: flex;
-    align-items: center;
+    text-align: center;
+    margin-top: 560px;
+    position: static;
     justify-content: center;
-    position: absolute;
+    align-items: center;
+    display: flex;
 }
